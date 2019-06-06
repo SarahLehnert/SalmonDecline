@@ -1,5 +1,5 @@
 # Salmon declines
-<b>Data for 'Genomic signatures and correlates of widespread population declines in salmon' (accepted in Nature Communications)</b>
+<b>Data for 'Genomic signatures and correlates of widespread population declines in salmon' (accepted in Nature Communications pending final revisions)</b>
 
 <b>Authors:</b> S.J. Lehnert, T. Kess, P. Bentzen, M.P. Kent, S. Lien, J. Gilbey, M. Clément, N.W. Jeffery, R.S. Waples, I.R. Bradbury
 
