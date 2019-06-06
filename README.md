@@ -30,3 +30,23 @@ Norway aquaculture site locations used in study with adjusted coordinates provid
 Scotland_AquacultureSite_Locations.csv (17 KB)</b>
 Description:	
 Scotland aquaculture site locations used in study with adjusted coordinates provided. Data were compiled from http://aquaculture.scotland.gov.uk/data/site_details.aspx
+
+<b>Filename:
+Candidate_SweepRegions_Delta_u_Europe_3SD.csv	(2 KB)</b>
+Description:	
+Outlier sweep windows for Europe (delta u)
+
+<b>Filename:
+Candidate_SweepRegions_Delta_u_NorthAmerica_3SD.csv (1 KB)</b>
+Description:	
+Outlier sweep windows for North America (delta u)
+
+<b>Filename:
+Outliers_RDA_Europe_403SNPs.csv	(19 KB)</b>
+Description:	
+Outlier RDA SNPs for North Europe
+
+<b>Filename:
+Outliers_RDA_NorthAm_228SNPs.csv (11 KB)</b>
+Description:	
+Outlier RDA SNPs for North America
